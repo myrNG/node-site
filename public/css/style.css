@@ -1,0 +1,29 @@
+body {
+  background-color: darkgrey;
+  color: #FFF; }
+  body header .navbar {
+    margin: 0; }
+  body .hero {
+    background-image: url(../img/sky.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    min-height: 500px;
+    position: relative;
+    padding: 50px 0; }
+    body .hero .hero-content {
+      position: absolute;
+      top: 50%;
+      text-align: center;
+      width: 100%; }
+      body .hero .hero-content h2 {
+        font-size: 5em; }
+  body main {
+    min-height: 500px; }
+  body footer {
+    text-align: center;
+    padding: 30px 0;
+    background-color: #FFF;
+    color: black; }
+
+/*# sourceMappingURL=style.css.map */
