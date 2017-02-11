@@ -1,15 +1,19 @@
 {
   "name": "node-site",
   "version": "1.0.0",
-  "description": "",
+  "description": "Basic config for a Node site with Express.js",
   "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/myrNG/node-site"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "nodejs"
   ],
-  "author": "MNG",
+  "author": "Myriam Niaré-Guilloux",
   "license": "ISC",
   "dependencies": {
     "ejs": "^2.5.5",
