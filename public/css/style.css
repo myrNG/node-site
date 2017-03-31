@@ -1,10 +1,10 @@
 body {
-  background-color: darkgrey;
+  background-color: #DCC59C;
   color: #FFF; }
   body header .navbar {
     margin: 0; }
   body .hero {
-    background-image: url(../img/sky.jpg);
+    background-image: url(../img/bot.jpeg);
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
