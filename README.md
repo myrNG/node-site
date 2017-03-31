@@ -1,4 +1,4 @@
-# Basic config for a Node site with Express.js
+# Node site with Express.js
 
 ![](public/img/botchan.png)  
 
